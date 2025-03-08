@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html lang="he" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>קורס חדשנות ויזמות ארגונית</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background: linear-gradient(135deg, #6C63FF, #8E2DE2, #FF6EC4);
+            color: white;
+            margin: 0;
+            padding: 20px;
+        }
+        header {
+            text-align: center;
+            padding: 20px;
+            background: rgba(255,255,255,0.2);
+            border-radius: 15px;
+            margin-bottom: 20px;
+        }
+        nav a {
+            margin: 10px;
+            text-decoration: none;
+            color: #ffffff;
+            font-weight: bold;
+        }
+        section {
+            background: rgba(255,255,255,0.1);
+            padding: 20px;
+            margin-bottom: 20px;
+            border-radius: 10px;
+        }
+        h2, h3 {
+            color: #ffd700;
+        }
+        a {
+            color: #ffe97f;
+            text-decoration: none;
+        }
+    </style>
+</head>
+<body>
+
+<header id="top">
+    <h1>חדשנות ויזמות ארגונית תשפ"ה - סמסטר ב'</h1>
+    <nav>
+        <a href="#description">תיאור הקורס</a> | 
+        <a href="#goals">מטרות הקורס</a> | 
+        <a href="#grading">מרכיבי הציון</a> | 
+        <a href="#schedule">רשימת נושאים</a> | 
+        <a href="#articles">רשימת קריאה</a>
+    </nav>
+</header>
+
+<section id="description">
+    <h2>תיאור הקורס</h2>
+    <p>חדשנות מהווה כלי מרכזי ליצירה ולשמירה של כושר תחרות בתנאי הסביבה המשתנים במהירות. הקורס סוקר התפתחויות ברמת המאקרו והמיקרו בעולם החדשנות.</p>
+    <a href="#top">חזרה למעלה</a>
+</section>
+
+<section id="goals">
+    <h2>מטרות הקורס</h2>
+    <ul>
+        <li>הקניית כלים ומיומנויות בתחום החדשנות.</li>
+        <li>זיהוי הזדמנויות ואיומים בתחום החדשנות.</li>
+        <li>פיתוח ויישום של רעיונות חדשניים.</li>
+        <li>ניהול חדשנות בארגונים.</li>
+    </ul>
+    <a href="#top">חזרה למעלה</a>
+</section>
+
+<section id="grading">
+    <h2>מרכיבי הציון</h2>
+    <ul>
+        <li>מבחן מסכם - 75%</li>
+        <li>מצגת צוותית - 20%</li>
+        <li>השתתפות בהאקתון - 5% (+בונוס למנצחים)</li>
+    </ul>
+    <a href="#top">חזרה למעלה</a>
+</section>
+
+<section id="schedule">
+    <h2>רשימת נושאים מרכזיים</h2>
+    <ol>
+        <li>הסביבה והאקוסיסטם של חדשנות</li>
+        <li>חדשנות ואסטרטגיה עסקית</li>
+        <li>אסטרטגיה של חדשנות</li>
+        <li>חדשנות ארגונית וסוגיה</li>
+        <li>בינה מלאכותית וחדשנות</li>
+        <li>תרבות של חדשנות בארגון</li>
+        <li>קבעונות חשיבתיים</li>
+        <li>למה חדשנות נכשלת?</li>
+        <li>Design Thinking</li>
+        <li>חשיבה המצאתית שיטתית</li>
+        <li>טיפול בהתנגדויות לחדשנות</li>
+        <li>האקתון - פעילות מעשית</li>
+    </ol>
+    <a href="#top">חזרה למעלה</a>
+</section>
+
+<section id="articles">
+    <h2>רשימת קריאה מלאה</h2>
+    <ul>
+        <li>Grilli & Pedota (2024). Creativity and artificial intelligence: <a href="https://doi.org/10.1111/caim.12580" target="_blank">לינק</a></li>
+        <li>Heller et al. (2023). Hack your organizational innovation</li>
+        <li>Boyd & Goldenberg (2013). Inside the Box Innovation</li>
+        <li>Kariv et al. (2024). Process innovation is technology transfer too!</li>
+        <li>Leonard & Rayport (1997). Spark Innovation Through Empathic Design <a href="https://www.hbs.edu/faculty/Pages/item.aspx?num=3863" target="_blank">לינק</a></li>
+        <li>Maaravi et al. (2023). Using Leading Questions to Reduce Resistance to Innovation.</li>
+        <li>Michael E. Porter (2008). Forces That Shape Competition <a href="https://www.academia.edu/download/49313875/Forces_That_Shape_Competition.pdf#page=25" target="_blank">לינק</a></li>
+        <li>Oreg & Goldenberg (2005). Resistance to Innovation</li>
+        <li>Vinchon et al. (2023). Artificial intelligence & creativity: <a href="https://doi.org/10.1002/jocb.597" target="_blank">לינק</a></li>
+    </ul>
+
+    <h3>קריאת רשות</h3>
+    <ul>
+        <li>Atkinson & Barker (2023). AI and the social construction of creativity: <a href="https://doi.org/10.1177/13548565231187730" target="_blank">לינק</a></li>
+        <li>Bender-Salazar (2023). Design thinking: <a href="https://doi.org/10.1186/s13731-023-00291-2" target="_blank">לינק</a></li>
+        <li>Blank (2019). Why companies do ‘Innovation Theater’: <a href="https://hbr.org/2019/10/why-companies-do-innovation-theater-instead-of-actual-innovation" target="_blank">לינק</a></li>
+        <li>Christensen et al. (2015). What Is Disruptive Innovation?</li>
+        <li>Christensen et al. (2018). Disruptive innovation: An intellectual history</li>
+        <li>Christensen et al. (2017). Africa’s New Generation of Innovators <a href="https://hbr.org/2017/01/africas-new-generation-of-innovators" target="_blank">לינק</a></li>
+        <li>CBINSIGHTS (2020). Post-Covid World <a href="https://www.cbinsights.com/research/report/industries-tech-shaping-world-post-covid/" target="_blank">לינק</a></li>
+        <li>Dweck (2016). Growth Mindset <a href="https://hbr.org/2016/01/what-having-a-growth-mindset-actually-means" target="_blank">לינק</a></li>
+        <li>Halligan (2020). The Experience Disrupter</li>
+        <li>Kirsner (2018). Obstacles to innovation in large companies</li>
+        <li>Kolko (2015). Design Thinking Comes of Age</li>
+        <li>Maaravi et al. (2022). Perceptions of victimhood and entrepreneurial tendencies</li>
+        <li>Maaravi & Heller (2021). Digital Innovation in Times of Crisis</li>
+        <li>Maaravi et al. (2020). Ideation in the digital age</li>
+        <li>Maaravi (2018). Using hackathons to teach management consulting</li>
+        <li>Satell (2017). 4 Types of Innovation <a href="https://hbr.org/2017/06/the-4-types-of-innovation-and-the-problems-they-solve" target="_blank">לינק</a></li>
+        <li>Zhexembayeva (2020). Organizational Change <a href="https://hbsp.harvard.edu/product/H05OBM-PDF-ENG?Ntt=innovation+&itemFindingMethod=Search" target="_blank">לינק</a></li>
+    </ul>
+    <a href="#top">חזרה למעלה</a>
+</section> 
+
+<footer>
+    <p>לקבלת עזרה נוספת, אנא פנו במייל: <a href="mailto:idit.biton@post.runi.ac.il">idit.biton@post.runi.ac.il</a></p>
+</footer>
+
+</body>
+</html>
